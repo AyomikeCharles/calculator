@@ -1,0 +1,28 @@
+.btn{
+	padding: 15px;
+	font-size: 1.3rem;
+	border-radius: 6px;
+	color: #fff;
+	font-size: 23px;
+}
+
+#equalto{
+	grid-column:4/ span 1;
+	grid-row:4/ span 2;
+}
+
+#decimal{
+	grid-column:2/ span 2;
+}
+
+.number{
+	background: #444;
+}
+
+.cancel{
+	background: #999;
+}
+
+.operate{
+	background: darkorange;
+}
